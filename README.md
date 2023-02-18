@@ -7,7 +7,7 @@
 Bikesharing Project of Udacity Course "Programming for Data Science with Python"
 
 ### Description
-Use user input to describe some bikesharing data
+Use user input to describe bikesharing data from Chigaco, New York City and Washington
 
 ### Files used
 bikesharing_submit.py
