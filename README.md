@@ -7,11 +7,13 @@
 Bikesharing
 
 ### Description
-Describe what your project is about and what it does
+Use user input to describe some bikesharing data
 
 ### Files used
-Include the files used
+bikesharing_submit.py
+washington.csv
+chicago.csv
+new_york_city.csv
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
-
+udacity nano degree course: https://learn.udacity.com/nanodegrees/nd104/parts/cd0419
