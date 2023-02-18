@@ -4,7 +4,7 @@
 2023-02-18.
 
 ### Project Title
-Bikesharing
+Bikesharing Project of Udacity Course "Programming for Data Science with Python"
 
 ### Description
 Use user input to describe some bikesharing data
