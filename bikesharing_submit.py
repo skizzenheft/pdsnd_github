@@ -78,7 +78,13 @@ def load_data(city, month, day):
 
     
 def time_stats(df):
-    """Displays statistics on the most frequent times of travel."""
+    """Displays statistics on the most frequent times of travel.
+    
+    Args:
+        (df) df - data frame 
+       
+    """
+    
 
     print('-'*60)
     print('\nThe most popular bike-sharing...\n')
