@@ -16,4 +16,4 @@ chicago.csv
 new_york_city.csv
 
 ### Credits
-udacity nano degree course: https://learn.udacity.com/nanodegrees/nd104/parts/cd0419
+Udacity Nano Degree course Programming for Data Science with Python: https://learn.udacity.com/nanodegrees/nd104/parts/cd0419
